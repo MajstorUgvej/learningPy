@@ -15,4 +15,4 @@ if acc in passwords:
     pyperclip.copy(passwords[acc])
     print("Successfully copied to clipboard")
 else:
-    print("Unable to find account: " + acc)
+    print("Unable to find account: " + acc) 
