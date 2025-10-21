@@ -1,0 +1,90 @@
+1) What is the capital of Greece:
+Vaduz
+(TRUE) Athens
+Pristina
+Tallinn
+
+2) What is the capital of Estonia:
+Prague
+(TRUE) Tallinn
+Valletta
+Copenhagen
+
+3) What is the capital of France:
+Riga
+Oslo
+Copenhagen
+(TRUE) Paris
+
+4) What is the capital of Belarus:
+Sofia
+Rome
+(TRUE) Minsk
+Chisinau
+
+5) What is the capital of Switzerland:
+Valletta
+(TRUE) Bern
+London
+Nicosia
+
+6) What is the capital of San Marino:
+Minsk
+Bratislava
+(TRUE) San Marino
+Skopje
+
+7) What is the capital of Romania:
+(TRUE) Bucharest
+Bratislava
+Vienna
+San Marino
+
+8) What is the capital of Bosnia and Herzegovina:
+(TRUE) Sarajevo
+Dublin
+Sofia
+Bratislava
+
+9) What is the capital of Czech Republic:
+(TRUE) Prague
+London
+Dublin
+Vienna
+
+10) What is the capital of Slovenia:
+Riga
+(TRUE) Ljubljana
+Budapest
+Bucharest
+
+11) What is the capital of Ukraine:
+(TRUE) Kyiv
+Nicosia
+Bratislava
+Valletta
+
+12) What is the capital of Iceland:
+Sarajevo
+Helsinki
+(TRUE) Reykjavik
+Vaduz
+
+13) What is the capital of Luxembourg:
+Rome
+Zagreb
+(TRUE) Luxembourg
+Moscow
+
+14) What is the capital of Finland:
+Vaduz
+Bern
+Skopje
+(TRUE) Helsinki
+
+15) What is the capital of North Macedonia:
+Brussels
+Helsinki
+(TRUE) Skopje
+Stockholm
+

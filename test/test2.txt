@@ -1,0 +1,90 @@
+1) What is the capital of Monaco:
+Madrid
+Sofia
+(TRUE) Monaco
+Vaduz
+
+2) What is the capital of Latvia:
+Amsterdam
+(TRUE) Riga
+Vienna
+Helsinki
+
+3) What is the capital of Czech Republic:
+San Marino
+(TRUE) Prague
+Amsterdam
+Valletta
+
+4) What is the capital of Sweden:
+Zagreb
+(TRUE) Stockholm
+Riga
+Skopje
+
+5) What is the capital of Italy:
+Athens
+Berlin
+Podgorica
+(TRUE) Rome
+
+6) What is the capital of Greece:
+Tirana
+Reykjavik
+(TRUE) Athens
+Pristina
+
+7) What is the capital of Bulgaria:
+Lisbon
+(TRUE) Sofia
+San Marino
+Rome
+
+8) What is the capital of Bosnia and Herzegovina:
+Athens
+Pristina
+Bratislava
+(TRUE) Sarajevo
+
+9) What is the capital of Estonia:
+Bucharest
+Chisinau
+Sarajevo
+(TRUE) Tallinn
+
+10) What is the capital of Liechtenstein:
+London
+(TRUE) Vaduz
+Budapest
+Valletta
+
+11) What is the capital of Malta:
+Prague
+Vaduz
+Andorra la Vella
+(TRUE) Valletta
+
+12) What is the capital of Croatia:
+Valletta
+(TRUE) Zagreb
+Bratislava
+Stockholm
+
+13) What is the capital of Iceland:
+Chisinau
+Bratislava
+(TRUE) Reykjavik
+Prague
+
+14) What is the capital of Slovakia:
+Warsaw
+Athens
+Madrid
+(TRUE) Bratislava
+
+15) What is the capital of Cyprus:
+Prague
+Skopje
+(TRUE) Nicosia
+Copenhagen
+
